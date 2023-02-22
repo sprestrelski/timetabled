@@ -2,7 +2,7 @@
 
 Submitted by: **Samantha Prestrelski**
 
-This web app: **A grid style calendar with one-hour events that plan out a single week. This particular one is my class schedule for my Spring 2023 quarter.**
+This web app: A grid style calendar with one-hour events that plan out a single week. This particular one is my class schedule for my Spring 2023 quarter.
 
 Time spent: **3** hours spent in total
 
@@ -10,15 +10,16 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **There is a one week calendar that includes one-hour time blocks**
-- [X] **Events have different titles**
-- [X] **Events have different colors based on their type**
+- [X] There is a one week calendar that includes one-hour time blocks
+- [X] Events have different titles
+- [X] Events have different colors based on their type
 
 
 The following **additional** features are implemented:
 
 * [X] Added extra colors to account for more event types
 * [X] Added subheading for lecture type and location
+* [X] Deployed on Vercel
 
 ## License
 
