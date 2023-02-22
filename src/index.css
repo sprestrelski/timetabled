@@ -1,0 +1,64 @@
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; 
+}
+
+th {
+  width: 120px;
+  padding-top:25px;
+  padding-bottom:30px;
+}
+
+td {
+  padding: 5px;
+  line-height: 80%;
+}
+
+.time{
+  height: 40px;
+}
+
+.Event {
+  width: 100px;
+}
+
+.Event h6,h5 {
+  align-content: center;
+  margin-bottom: 0;
+}
+
+.Event p {
+  font-size: 80%;
+  align-content: center;
+}
+
+.pink {
+  background:#ffd5dc;
+}
+
+.blue {
+  background:#bedbe5;
+}
+
+.green {
+  background:#caf5de;
+} 
+
+.yellow {
+  background: #fff9c4;
+}
+
+.purple {
+  background: #f3deff;
+}
+
+.orange {
+  background: #ffe2bb;
+}
+
+
